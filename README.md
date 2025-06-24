@@ -1,6 +1,6 @@
 # Task-2
 This notebook performs a complete Exploratory Data Analysis (EDA) on the Titanic dataset to understand patterns, relationships, and key features influencing passenger survival.
-
+  
 The goal of this EDA is to:
 -> Understand the data using descriptive statistics.
 -> Use visualizations to uncover insights and trends.
